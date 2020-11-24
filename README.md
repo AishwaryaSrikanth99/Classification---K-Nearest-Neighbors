@@ -17,7 +17,7 @@ In this problem, we are using the "Elbow" method to find the apt k value which y
 6. Building KNN Model
 7. Analyzing Performance Using Metrics
 8. Finding the best "k" value
-9. Retraining the model using the choice of "k" value
+9. Retraining the model using the new "k" value
 
 # Python packages used
 1. Numpy
